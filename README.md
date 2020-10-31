@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
 
+#### 🤔 Who Am I!?
+
+- 🏫 Studying BS(Computer Science) at FAST NUCES Lahore .
+- ⚡️ A competitve C++ programmer.
+- 🚀 Data Science Enthusiast
+- 🥅 2021 Goals: Contribute more towards Open Source Projects
+
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
