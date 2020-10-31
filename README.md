@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
 
 
 - 🔭 I’m currently working on ...
