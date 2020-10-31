@@ -18,9 +18,9 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
+<br>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="30px" src="https://raw.githubusercontent.com/githubhttps://www.google.com/search?q=visual+studio+logo&rlz=1C1CHBF_enPK914PK914&sxsrf=ALeKk02X3XsF6U31c4lE_n3jQ9BAsgAB7A:1604127131486&tbm=isch&source=iu&ictx=1&fir=-Bvr315lFUlZ6M%252CQRkcbcojfF3qCM%252C_&vet=1&usg=AI4_-kRga2zRi2BzlKQD_4X-TWVwEK-Gmw&sa=X&ved=2ahUKEwiZy-Ken97sAhVxxYUKHeC4B1YQ9QF6BAgKEFQ#imgrc=-Bvr315lFUlZ6M/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio" width="30px" src="https://icons8.com/icon/48455/visual-studio" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
