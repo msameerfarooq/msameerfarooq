@@ -10,9 +10,9 @@
 <img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
 <br />
 <br />
+<br />
+<br />
 <a href="https://sourcerer.io/msameerfarooq"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
-<br />
-<br />
 <br />
 <br />
 <br />
