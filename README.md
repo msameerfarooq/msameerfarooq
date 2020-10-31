@@ -7,7 +7,8 @@
 - 🚀 Data Science Enthusiast
 - 🥅 2021 Goals: Contribute more towards Open Source Projects
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=msameerfarooq)
+img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
+<br />
 
 ### Languages and Tools:
 
@@ -46,8 +47,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
-<br />
+<
 <br />
 <a href="https://sourcerer.io/msameerfarooq"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
