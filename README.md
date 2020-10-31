@@ -7,7 +7,7 @@
 - 🚀 Data Science Enthusiast
 - 🥅 2021 Goals: Contribute more towards Open Source Projects
 
-img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
+<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
 <br />
 
 ### Languages and Tools:
