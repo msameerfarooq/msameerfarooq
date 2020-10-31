@@ -23,3 +23,8 @@
 <br />
 <br />
 <a href="https://sourcerer.io/msameerfarooq"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+
+[facebook]: https://www.facebook.com/msameerfarooq
+[instagram]: https://instagram.com/msameerfarooq
+[twitter]: https://twitter.com/msameerfarooq
+[linkedin]: https://www.linkedin.com/in/msameerfarooq/
