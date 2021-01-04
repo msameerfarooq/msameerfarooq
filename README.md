@@ -9,7 +9,6 @@
 
 <a href="https://sourcerer.io/msameerfarooq">Sourcerer Profile</a>
 
-</br>
 <p><img align="center" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" /></p>
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
@@ -38,7 +37,7 @@
 [<img align="left" alt="Sameer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br>
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 </br>
 
