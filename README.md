@@ -59,10 +59,11 @@
 <br />
 
 <p align="left"> 
- <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg
+ <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg" alt="Profile Views"
 " /> </p>
 <br />
 
+<p><img align="left" src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg" alt="Profile Viewsss"></p>
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
 [facebook]: https://www.facebook.com/msameerfarooq
