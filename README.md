@@ -11,14 +11,6 @@
 <p><img align="right" alt="Sourcerer" src="https://sourcerer.io/msameerfarooq" /></p>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 
