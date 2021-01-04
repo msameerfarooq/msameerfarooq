@@ -15,15 +15,10 @@
 <a href="https://sourcerer.io/msameerfarooq"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 <br>
 <br>
-<br />
-<br />
 
-<p align="left">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats">
-</p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="msameerfarooq" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" />
 <br>
 <br>
 
