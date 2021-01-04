@@ -56,7 +56,9 @@
  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 <br />
-
+<p align="left"> <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg
+" alt="2128" /> </p>
+<br />
 
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
