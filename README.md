@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats"></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 <br>
 <br>
 <br>
