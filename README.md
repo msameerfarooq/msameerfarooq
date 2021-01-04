@@ -7,8 +7,8 @@
 - 🚀 Data Science Enthusiast
 - 🥅 2021 Goals: Contribute more towards Open Source Projects
 <p>
-<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" />
-<img align="right" alt="Sourcerer" src="https://sourcerer.io/msameerfarooq" />
+<img align="left" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" /></p>
+<p><img align="right" alt="Sourcerer" src="https://sourcerer.io/msameerfarooq" /></p>
 <br>
 <br>
 <br>
@@ -17,12 +17,11 @@
 <br>
 <br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats">
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats"></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 <br>
 <br>
-</p>
 <br>
 <br>
 ### Languages and Tools:
