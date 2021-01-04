@@ -44,6 +44,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 <br />
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats">
+</p>
+
 
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
