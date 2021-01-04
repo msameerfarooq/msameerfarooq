@@ -39,9 +39,9 @@
 [<img align="left" alt="Sameer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br></br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
-<br></br>
+<br>
 
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
