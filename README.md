@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
 
 <br>
 <br>
@@ -53,17 +53,12 @@
 [<img align="left" alt="Sameer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sameer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 <br>
 <br />
 
-<p align="left"> 
- <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg" alt="Profile Views"
-" /> </p>
-<br />
-
-<p><img align="left" src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg" alt="Profile Viewsss"></p>
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
 [facebook]: https://www.facebook.com/msameerfarooq
