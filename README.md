@@ -16,12 +16,13 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="msameerfarooq" /></p>
 
 <p align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq" alt="Github Streak Stats">
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="msameerfarooq" /></p>
 <br>
 <br>
 
