@@ -55,9 +55,12 @@
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
+<br>
 <br />
-<p align="left"> <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg
-" alt="2128" /> </p>
+
+<p align="left"> 
+ <img src="https://views.whatilearened.today/views/github/msameerfarooq/msameerfarooq.svg
+" /> </p>
 <br />
 
 
