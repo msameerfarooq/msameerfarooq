@@ -47,3 +47,4 @@
 [instagram]: https://instagram.com/msameerfarooq
 [twitter]: https://twitter.com/msameerfarooq
 [linkedin]: https://www.linkedin.com/in/msameerfarooq/
+[linkedin]: https://www.linkedin.com/in/msameerfarooq/
