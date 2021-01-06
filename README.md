@@ -42,4 +42,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
 </br>
 
-
+[Gmail]: mailto:me.sameer.farooq@gmail.com
+[facebook]: https://www.facebook.com/msameerfarooq
+[instagram]: https://instagram.com/msameerfarooq
+[twitter]: https://twitter.com/msameerfarooq
+[linkedin]: https://www.linkedin.com/in/msameerfarooq/
