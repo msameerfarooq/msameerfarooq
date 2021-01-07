@@ -47,3 +47,9 @@
 [instagram]: https://instagram.com/msameerfarooq
 [twitter]: https://twitter.com/msameerfarooq
 [linkedin]: https://www.linkedin.com/in/msameerfarooq/
+
+[Gmail]: mailto:me.sameer.farooq@gmail.com
+[facebook]: https://www.facebook.com/msameerfarooq
+[instagram]: https://instagram.com/msameerfarooq
+[twitter]: https://twitter.com/msameerfarooq
+[linkedin]: https://www.linkedin.com/in/msameerfarooq/
