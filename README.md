@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
 
+
+<p align="left">
+  <a href="https://github.com/msameerfarooq/msameerfarooq">
+    <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
+  </a>
+  <a href="https://github.com/msameerfarooq">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?color=green&logo=github">
+  </a>
+   <a href="https://stackoverflow.com/users/10846501/msameerfarooq?tab=profile">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=social">
+  </a>
+
 #### 🤔 Who Am I!?
 
 - 🏫 Studying BS(Computer Science) at FAST NUCES Lahore .
