@@ -8,8 +8,8 @@
   <a href="https://github.com/msameerfarooq">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?color=green&logo=github">
   </a>
-   <a href="https://stackoverflow.com/users/10846501/msameerfarooq?tab=profile">
-    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/10846501?style=social">
+   <a href="https://stackoverflow.com/users/11952884/msameerfarooq?tab=profile">
+    <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/11952884?style=social">
   </a>
 
 #### 🤔 Who Am I!?
