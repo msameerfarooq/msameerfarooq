@@ -32,7 +32,7 @@
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Java" width="30px" src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" />
-<img align="left" alt="Python" width="30px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+<img align="left" alt="Python" width="30px" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -50,9 +50,7 @@
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="2128" /> </p>
-</br>
+
 
 [Gmail]: mailto:me.sameer.farooq@gmail.com
 [facebook]: https://www.facebook.com/msameerfarooq
