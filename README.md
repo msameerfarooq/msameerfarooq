@@ -51,7 +51,6 @@
 
 <br>
 
-
 [Gmail]: mailto:me.sameer.farooq@gmail.com
 [facebook]: https://www.facebook.com/msameerfarooq
 [instagram]: https://instagram.com/msameerfarooq
