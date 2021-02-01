@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD SAMEER FAROOQ</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
 
 
 <p align="left">
