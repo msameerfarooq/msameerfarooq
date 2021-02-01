@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
 
 <p align="left">
-  <a href="https://github.com/msameerfarooq/msameerfarooq">
+   <a href="https://github.com/msameerfarooq/msameerfarooq">
     <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
   </a>
   <a href="https://github.com/msameerfarooq">
