@@ -17,7 +17,6 @@
 
 
 
-
 - 🏫 Studying BS(Computer Science) at FAST NUCES Lahore .
 - ⚡️ A competitve C++ programmer.
 - 🚀 Data Science Enthusiast
