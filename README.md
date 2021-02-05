@@ -11,7 +11,6 @@
             s://stackoverflow.com/users/11952884/msameerfarooq?tab=profile">
     <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/11952884?style=social">
   </a>
-   
 
 #### 🤔 Who Am I!?
 
