@@ -9,8 +9,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?color=green&logo=github">
   </a>
    
-  <a href="http
-            s://stackoverflow.com/users/11952884/msameerfarooq?tab=profile">
+  <a href="https://stackoverflow.com/users/11952884/msameerfarooq?tab=profile">
     <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/11952884?style=social">
   </a>
  
