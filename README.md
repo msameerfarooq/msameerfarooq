@@ -23,6 +23,7 @@
 - 🥅 <a href="https://sourcerer.io/msameerfarooq">Sourcerer Profile</a>
 
 <p><img align="center" alt="Sameer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq&show_icons=true&hide_border=true" /></p>
+
 </br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" /></p>
