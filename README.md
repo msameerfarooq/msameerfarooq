@@ -2,8 +2,7 @@
 <p align="left">
    <a href="https://github.com/msameerfarooq/msameerfarooq">
     <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
-  </a>
-   
+  </a>   
   <a href="https://github.com/msameerfarooq">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?color=green&logo=github">
   </a>
