@@ -45,6 +45,7 @@
 [<img align="left" alt="Sameer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 <br>
 
+
 [Gmail]: mailto:me.sameer.farooq@gmail.com
 [facebook]: https://www.facebook.com/msameerfarooq
 [instagram]: https://instagram.com/msameerfarooq
