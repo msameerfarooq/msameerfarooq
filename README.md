@@ -12,10 +12,10 @@
   </a>
   
 #### 🤔 Who Am I!?
-- 🏫 Studying BS(Computer Science) at FAST NUCES Lahore .
+- 🏫 Data/Devops Engineer @ Strategic Systems International .
 - ⚡️ A competitve C++ programmer.
 - 🚀 Data Science Enthusiast
-- 🥅 2021 Goals: Contribute more towards Open Source Projects
+- 🥅 2024 Goals: Contribute more towards Open Source Projects
 - 🥅 <a href="https://sourcerer.io/msameerfarooq">Sourcerer Profile</a>
 
 
