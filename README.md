@@ -11,7 +11,7 @@
 <img 
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"
   alt="side_sticker" 
-  style="float: right; margin-top: 50px; width: 200px; height: 200px;" />
+  style="float: right; width: 200px; height: 200px;" />
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
