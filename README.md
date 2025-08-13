@@ -99,6 +99,7 @@ Git Activeness
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&theme=radical" alt="GitHub Streak Stats">
 </p>
+<br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
