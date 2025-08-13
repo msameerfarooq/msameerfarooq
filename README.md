@@ -14,7 +14,7 @@
 align="right"
  width=200px
   height=200px
-  margin-top=500px
+  style="margin-top: 50px;"
      />
 
 <h2>
