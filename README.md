@@ -87,23 +87,23 @@
 
 &emsp;
 <div align="left">
-    <h2>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-Git Activeness
-</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+    Git Activeness
+  </h2>
 </div>
 
-<!-- <p align="center">
-  <img align="center" alt="Sameer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=msameerfarooq-traveloka&show_icons=true&hide_border=true&theme=radical" />
-</p> -->
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&theme=radical" alt="GitHub Streak Stats">
-</p>
-<br>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img alt="msameerfarooq's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=msameerfarooq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="msameerfarooq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak Stats"/>
+</p>
+
+
+<br>
 <!-- &emsp;
 <div align="left">
   <h2>
