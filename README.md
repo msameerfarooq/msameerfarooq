@@ -51,21 +51,20 @@
 ![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=-C%2B%2B)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B)
 ![YAML](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-[![abcd.com](https://img.shields.io/badge/-C%2B%2B-000?link=https%3A%2F%2Fwww.w3schools.com%2Fcpp%2F)](abcd.com)
 
 ### Frameworks and Libraries:
 &emsp;
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![FAST API](https://img.shields.io/badge/-FAST%20API-000?&logo=FAST%20API)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-![Beautiful Soap](https://img.shields.io/badge/-Beautiful%20Soap-000?&logo=Beautiful%20Soap)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-000?&logo=BeautifulSoup)
 
 ### Databases:
 &emsp;
