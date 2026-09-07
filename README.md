@@ -1,21 +1,26 @@
 <!-- ===== Header banner ===== -->
 <p align="center">
-  <img width="100%" alt="Muhammad Sameer Farooq — Senior DevOps Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f16,100:10B981&height=200&section=header&text=Muhammad%20Sameer%20Farooq&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20DevOps%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform%20%C2%B7%20Terragrunt%20%C2%B7%20Python&descSize=18&descAlignY=58"/>
+  <img width="100%" alt="Muhammad Sameer Farooq — Senior DevOps Engineer (AWS · Terraform · Terragrunt · Python)" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f16,100:10B981&height=200&section=header&text=Muhammad%20Sameer%20Farooq&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20DevOps%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Terraform%20%C2%B7%20Terragrunt%20%C2%B7%20Python&descSize=18&descAlignY=58"/>
 </p>
 
 <!-- ===== Typing tagline ===== -->
 <p align="center">
   <a href="https://msameerfarooq.com">
-    <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=I+turn+AWS+into+reusable%2C+governed+platforms;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Serverless+observability;50%2B+AWS+accounts%2C+managed+as+code;Deployments+that+are+boring+%E2%80%94+on+purpose"/>
+    <img alt="Muhammad Sameer Farooq turns AWS into reusable, governed platforms — Infrastructure as Code, CI/CD, and serverless observability" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=I+turn+AWS+into+reusable%2C+governed+platforms;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Serverless+observability;50%2B+AWS+accounts%2C+managed+as+code;Deployments+that+are+boring+%E2%80%94+on+purpose"/>
   </a>
+</p>
+
+<!-- ===== Machine-readable headline (real text for search engines) ===== -->
+<p align="center">
+  <b>Muhammad Sameer Farooq</b> — Senior DevOps Engineer @ <a href="https://msameerfarooq.com">NorthBay Solutions</a> · Lahore, Pakistan
 </p>
 
 <!-- ===== Contact ===== -->
 <p align="center">
-  <a href="https://msameerfarooq.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/msameerfarooq/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://gitlab.com/msameerfarooq"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="mailto:me.sameer.farooq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://msameerfarooq.com"><img alt="Muhammad Sameer Farooq — Portfolio (msameerfarooq.com)" src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/msameerfarooq/"><img alt="Muhammad Sameer Farooq on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://gitlab.com/msameerfarooq"><img alt="Muhammad Sameer Farooq on GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="mailto:me.sameer.farooq@gmail.com"><img alt="Email Muhammad Sameer Farooq" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -25,11 +30,10 @@
 
 ## 👋 About
 
-I'm a Senior DevOps Engineer at **NorthBay Solutions** in Lahore, Pakistan, working where
-**Infrastructure as Code**, **CI/CD**, and **AWS governance** meet — designing reusable Terraform
-and Terragrunt frameworks that standardize provisioning across large AWS estates, wiring up
-delivery pipelines that make releases boring, and building the observability that keeps those
-platforms honest.
+I'm Sameer — a Senior DevOps Engineer at **NorthBay Solutions** in Lahore, Pakistan, working where
+**Infrastructure as Code**, **CI/CD**, and **AWS governance** meet. I design reusable Terraform and
+Terragrunt frameworks that standardize provisioning across large AWS estates, wire up delivery
+pipelines that make releases boring, and build the observability that keeps those platforms honest.
 
 I came into DevOps through data engineering — I built the Redshift warehouses and Glue/DMS
 pipelines before I automated them. That overlap is my edge: I don't just provision the data
@@ -154,12 +158,12 @@ accessible project dialog, and real SEO metadata, continuously deployed to Netli
 ## 📈 GitHub activity
 
 <p align="center">
-  <img alt="GitHub stats for msameerfarooq" height="170px" src="https://github-readme-stats.vercel.app/api/?username=msameerfarooq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=10B981&icon_color=10B981"/>
-  <img alt="GitHub streak for msameerfarooq" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&theme=react&hide_border=true&background=1F222E&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981"/>
+  <img alt="Muhammad Sameer Farooq — GitHub stats" height="170px" src="https://github-readme-stats.vercel.app/api/?username=msameerfarooq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=10B981&icon_color=10B981"/>
+  <img alt="Muhammad Sameer Farooq — GitHub streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=msameerfarooq&theme=react&hide_border=true&background=1F222E&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981"/>
 </p>
 
 <p align="center">
-  <img alt="Top languages for msameerfarooq" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&langs_count=6&layout=compact&hide=c%2B%2B,c,java,html,css,jupyter%20notebook,tex&theme=react&hide_border=true&bg_color=1F222E&title_color=10B981&icon_color=10B981"/>
+  <img alt="Muhammad Sameer Farooq — most used languages" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msameerfarooq&langs_count=6&layout=compact&hide=c%2B%2B,c,java,html,css,jupyter%20notebook,tex&theme=react&hide_border=true&bg_color=1F222E&title_color=10B981&icon_color=10B981"/>
 </p>
 
 ## 🤝 Let's connect
