@@ -6,7 +6,7 @@
 <!-- ===== Typing tagline ===== -->
 <p align="center">
   <a href="https://msameerfarooq.com">
-    <img alt="Muhammad Sameer Farooq turns AWS into reusable, governed platforms — Infrastructure as Code, CI/CD, and serverless observability" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=I+turn+AWS+into+reusable%2C+governed+platforms;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Serverless+observability;50%2B+AWS+accounts%2C+managed+as+code;Deployments+that+are+boring+%E2%80%94+on+purpose"/>
+    <img alt="Muhammad Sameer Farooq turns AWS into reusable, governed platforms — Infrastructure as Code, CI/CD, and serverless observability" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=I+turn+AWS+into+reusable%2C+governed+platforms;Infrastructure+as+Code+%C2%B7+CI%2FCD+%C2%B7+Serverless+observability;50%2B+AWS+accounts%2C+provisioned+as+code;Deployments+that+are+boring+%E2%80%94+on+purpose"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@ platform, I know what it's for.
 
 |  |  |
 | ---: | :--- |
-| **50+** | AWS accounts managed as code with Terraform &amp; Terragrunt |
+| **50+** | AWS accounts provisioned as code with Terraform &amp; Terragrunt |
 | **60%** | reduction in deployment lead time via automated CI/CD |
 | **70%** | faster large-scale ETL pipelines on the AWS data stack |
 | **95%** | less operational alert noise from a serverless observability platform |
